@@ -38,7 +38,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0/hub)
 - Live Site URL:(https://00awaudby.github.io/base-apperal-coming-soon/)
 
 ## My process
